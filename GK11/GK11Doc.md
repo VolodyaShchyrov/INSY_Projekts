@@ -12,7 +12,7 @@ Dort lernt man SQL Grundlagen und ganz am Ende bekommt man Zertifikat.
 
 **Beschreibung:** Wir schlüpfen in die Rolle eines Überlebenden. Ein Flugzeugabsturz führt uns auf eine Insel, und unsere Aufgabe ist es, zu entkommen. Dazu finden wir verschiedene Personen in einer Datenbank und erfüllen Aufgaben.
 
-![Zertifikat](./GK11/Screenshot%202026-09-16%20101254.png)
+![Zertifikat](./Screenshot%202026-09-16%20101254.png)
 
 ## 2.flightdatabase
 
